@@ -48,7 +48,7 @@ In **FormatTransformer(GUI).py**, users can use a graphical user interface (GUI)
 ---
 ## 3. Required environment
 - 1. Compile FFmpeg with libass support.
-- 2. Install wxWidgets.
+- 2. Install wxWidgets (only for GUI-version files).
 ```bash
 pip install wxPython
 ```

@@ -81,6 +81,5 @@ This project uses [MIT LICENSE](https://github.com/SomeB1oody/SubtitleMaster/blo
 ---
 ## 6. Contact information
 
-- Author: Stan Yin
 - Email: stanyin64@gmail.com
 - GitHub: [@SomeB1ooody](https://github.com/SomeB1oody)

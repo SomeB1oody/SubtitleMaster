@@ -76,7 +76,7 @@ git push orgin feature-name
 ---
 ## 5. License
 
-This project uses [MIT LICENSE](LICENSE).
+This project uses [MIT LICENSE](https://github.com/SomeB1oody/SubtitleMaster/blob/main/LICENSE).
 
 ---
 ## 6. Contact information

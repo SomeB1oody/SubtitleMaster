@@ -26,14 +26,8 @@ Due to my limited capabilities, the code may have some imperfections. I warmly w
 
 This is the sturcture of this project:
 
-SubtitleMaster/
-|- SubtitleHardcoder/
-|               |- SubtitleHardcoder.py
-|               |- SubtitleHardcoder(GUI).py
-|- FormatTransformer/
-|               |- FormatTransformer.py
-|               |- FormatTransformer(GUI).py
-\ - README.md
+![structure](https://github.com/user-attachments/assets/e6cb2cce-49eb-44f7-9a39-7c073f7a861b)
+
 
 ### 2.2. Info about SubtitleHarcoder
 

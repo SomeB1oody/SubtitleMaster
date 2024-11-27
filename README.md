@@ -5,12 +5,12 @@
 ---
 ## 0. Table of Content
 
-- 1. Intro
-- 2.Functions
-- 3. Required environment
-- 4. Contribution
-- 5. Liscence
-- 6. Contact information
+-  1. Intro
+-  2. Functions
+-  3. Required environment
+-  4. Contribution
+-  5. Liscence
+-  6. Contact information
 ---
 ## 1. Intro
 **Subtitle Master** is a project that uses Python FFmpeg as its backend and Python wxWidgets as its frontend. It is designed to enable a range of subtitle processing operations through a simple and lightweight program.
